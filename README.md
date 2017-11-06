@@ -4,7 +4,13 @@ This is an example of an architecture diagram produced by Structurizr.
 
 Run `./gradlew run` to generate the diagram via the API, passing in the "api.secret" environment variable. Ask me for this.
 
+The architecture source code:
 
+https://github.com/mogronalol/architecture-example/blob/master/src/main/java/com/mycompany/mysystem/Structurizr.java
+
+The example diagram which is produced:
+
+https://raw.githubusercontent.com/mogronalol/architecture-example/master/example-diagram.png
 
 More information can be found here:
 
