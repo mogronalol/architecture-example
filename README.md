@@ -17,6 +17,8 @@ More information can be found here:
 - https://c4model.com/
 - https://structurizr.com/
 
-In our case we have a container level diagram.
+In our case we have a container level diagram. 
+
+Notice how this is not a deployment diagram, and we are also omitting information about infrastructure. Here we only care about services and whether they communicate via messaging or rest, and whether they uses a database.
 
 
